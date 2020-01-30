@@ -1,0 +1,3 @@
+URL: http://api.nbp.pl/api/exchangerates/tables/c/?format=json
+JSONfilename: table_c.json
+Walletfilename: walletINFO.txt
